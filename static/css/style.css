@@ -1,0 +1,52 @@
+#vrh
+{
+    background-color: gray;
+    height: 10
+    px;
+    width: auto;
+}
+
+#crveni
+{
+    color: red;
+}
+body {
+  font-family: Arial;
+  font-weight: bold;
+  color: white;
+}
+.obrub:hover {
+  position: relative;
+  top: -4px;
+}
+
+body {
+  background-color: black;
+}
+
+
+
+
+.bijelo
+{
+    color: white;
+}
+#tekst
+{
+color: gray;
+letter-spacing: 40px;
+font-size: 10px
+text-shadow: 4px 4px blue;
+}
+/* ovo je kopirano s https://htmlcheatsheet.com/css/ */
+.myButton {
+color: rgb(255, 255, 255); font-size: 22px; line-height: 22px; padding: 6px; border-radius: 10px; font-family: Arial,
+serif; font-weight: bold; text-decoration: none; font-style: normal; font-variant: normal;
+text-transform: none; background-image:
+linear-gradient(to right, rgb(50, 2, 164) 0%, rgb(35, 136, 203) 50%, rgb(20, 78, 117) 100%);
+box-shadow: rgb(0, 0, 0) -3px 5px 15px 5px; border: 2px solid rgb(28, 110, 164); display: inline-block;}
+.myButton:hover {
+background: #1C6EA4; }
+.myButton:active {
+background: #144E75; }
+
